@@ -726,6 +726,11 @@ td {
 .pull-right {
   float: right; }
 
+[hidden],
+template {
+  display: none !important;
+}
+
 .label,
 .status,
 .badge {
